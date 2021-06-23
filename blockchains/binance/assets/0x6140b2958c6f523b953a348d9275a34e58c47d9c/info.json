@@ -1,0 +1,12 @@
+{
+     "name": “Play Token”,
+    "website": “www.everybodyplaystoken.com”,
+    "description": “Play Token is a charity token”,
+    "explorer": "https://bscscan.com/token/0x6140b2958c6f523b953a348d9275a34e58c47d9c",
+    "type": "BEP20",
+    "symbol": “PL”AY,
+    "decimals": 3,
+    "status": "active",
+    "id": "0x6140b2958c6f523b953a348d9275a34e58c47d9c"
+    
+}
